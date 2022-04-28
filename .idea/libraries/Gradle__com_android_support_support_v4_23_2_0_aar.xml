@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-v4:23.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/201cafdec048d92b15a927dcdfd0ce1f/transformed/support-v4-23.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89ab5accadcf19a4126254966f267e54/support-v4-23.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/201cafdec048d92b15a927dcdfd0ce1f/transformed/support-v4-23.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/201cafdec048d92b15a927dcdfd0ce1f/transformed/support-v4-23.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/201cafdec048d92b15a927dcdfd0ce1f/transformed/support-v4-23.2.0/jars/libs/internal_impl-23.2.0.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/201cafdec048d92b15a927dcdfd0ce1f/transformed/support-v4-23.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-v4/23.2.0/92037480f9cb0826ef4539455a4a91cf09c31e64/support-v4-23.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-v4/23.2.0/7c8214891a242e3f75b243a040bd2114e0e590b4/support-v4-23.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
